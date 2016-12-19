@@ -1,0 +1,20 @@
+{
+  "name": "ErrorTracker",
+  "version": "0.0.1",
+  "description": "ErrorTracker",
+  "main": "index-min.js",
+  "scripts": {
+
+  },
+  "author": "zygeilit@icloud.com",
+  "license": "",
+  "devDependencies": {
+
+  },
+  "dependencies": {
+    "webpack": "^1.12.14"
+  },
+  "repository": {
+
+  }
+}
